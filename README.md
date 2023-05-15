@@ -1,6 +1,7 @@
 <p align="center">
-  # Paycar
+  <h1>PayCar</h1>
 </p>
+
 
 Link for the project:https://aa-sxfk.onrender.com/
 
