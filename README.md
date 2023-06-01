@@ -22,6 +22,17 @@ This app is used to predict the price of a Used Car analysing various factors li
 - The entire application is finally deployed on render.
 - See the deployed application [here](https://aa-sxfk.onrender.com/).
 
+## Sneak-Peek into the Website
+
+![Screenshot (63)](https://github.com/meghanareddy1808/Paycar/assets/108571707/198a674c-2872-4c1b-a0dd-3d37b30e44b7)
+
+
+![Screenshot (64)](https://github.com/meghanareddy1808/Paycar/assets/108571707/f4eb4285-397e-4da1-85e0-07123a7d9a88)
+
+
+![Screenshot (65)](https://github.com/meghanareddy1808/Paycar/assets/108571707/00731660-e216-4be5-a032-1ad8ba4baa6f)
+
+
 ## Run Locally
 
 Open Anaconda Prompt -
